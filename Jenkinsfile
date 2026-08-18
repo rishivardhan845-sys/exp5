@@ -11,4 +11,4 @@ stage('Run') {
     steps {
         sh 'java HelloWorld'
     }
-}
+}}}
